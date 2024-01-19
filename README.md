@@ -25,9 +25,9 @@ Files required:
 2. PR2_functions.py: Functions implementation
 3. pr2_utils.py: Instructor provided code
 
->> Open ece276_pr2.py
->> Find the "USER EDITABLE" section in the top.
->> Update the data paths.
->> Run ece276_pr2.py
+* Open ece276_pr2.py
+* Find the "USER EDITABLE" section in the top.
+* Update the data paths.
+* Run ece276_pr2.py
 
 Libraries required: os, numpy, matplotlib, tqdm, scipy.signal, cv2.
