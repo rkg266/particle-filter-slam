@@ -18,3 +18,16 @@ For data related queries, contact rkgutta266@gmail.com
 **Results:** Maps produced based on deadreckoning and particle filter strategy <br>
 ![Deadreackon_map](/plots_images/map_20.png) <br>
 ![Particle filter_map](/plots_images/Pmap_20.png)
+
+## Running code:
+Files required: 
+1. ece276_pr2.py: Main code
+2. PR2_functions.py: Functions implementation
+3. pr2_utils.py: Instructor provided code
+
+>> Open ece276_pr2.py
+>> Find the "USER EDITABLE" section in the top.
+>> Update the data paths.
+>> Run ece276_pr2.py
+
+Libraries required: os, numpy, matplotlib, tqdm, scipy.signal, cv2.
