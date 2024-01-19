@@ -12,3 +12,8 @@ Implemented simultaneous localization and mapping (SLAM), leveraging particle fi
 **Results:** Deadreckon and estimated trajectories shown below <br>
 ![Deadreackon](/plots_images/drkn_traject_20.png) <br>
 ![Particle filter](/plots_images/Ptraject_20.png)
+
+2. Mapping the environment as obstacles and no obstacles regions<br>
+**Results:** Maps produced based on deadreckoning and particle filter strategy <br>
+![Deadreackon_map](/plots_images/map_20.png) <br>
+![Particle filter_map](/plots_images/Pmap_20.png)
